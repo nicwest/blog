@@ -1,0 +1,13 @@
+{
+  "name": "nicwest",
+  "root": "./_site",
+  "clean_urls": false,
+  "error_page": "error.html",
+  "redirects": {
+      "/install/": {
+          "status": 302,
+          "url": "https://raw.githubusercontent.com/nicwest/slimfiles/master/install.sh"
+      }
+  }
+
+}
