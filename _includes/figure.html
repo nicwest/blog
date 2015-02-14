@@ -1,0 +1,10 @@
+<!--figure tags without plugin: http://stackoverflow.com/questions/19331362/using-an-image-caption-in-markdown-jekyll -->
+
+<figure>
+  <figcaption> Photo: 
+    <a href="{{ include.creditlink }}">
+      {{ include.credit }}
+    </a>
+  </figcaption>
+		<img src="{{ include.src }}" alt="{{ include.caption }}">
+</figure>

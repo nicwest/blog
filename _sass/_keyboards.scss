@@ -1,0 +1,16 @@
+div.keyboards {
+  .ergo {
+    height: 100px;
+    overflow: hidden;
+    &.ergo1 {
+      img {
+        margin-top: -40%;
+      }
+    }
+    &.ergo2 {
+      img {
+        margin-top: -33%;
+      }
+    }
+  }
+}
