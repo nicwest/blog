@@ -1,0 +1,42 @@
+div.skillbar{
+  position: relative;
+  height: 28px;
+  font-family: $title-font-family;
+  border: 1px solid $brand-color;
+  margin-bottom: 10px;
+
+  div.name {
+    position: absolute;
+    top: 4px;
+    color: #FFF;
+    left: 6px;
+  }
+
+  div.number {
+    position: absolute;
+    top: 4px;
+    color: $brand-color;
+    right: 6px;
+  }
+
+  div.bar {
+    background-color: $brand-color;
+    height: 100%;
+
+
+    @for $i from 1 through 10 {
+      &.bar-#{$i} {
+        width: percentage(($i/10));
+      }
+    }
+  }
+}
+
+i.big-icon {
+  font-size: 2em;
+}
+
+div.center {
+  text-align: center;
+}
+
