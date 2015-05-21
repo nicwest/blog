@@ -6,10 +6,11 @@ permalink: /about/
 
 {% include figure.html src="/imgs/me.jpg" caption="me" credit="Edward Knowles, 2012" creditlink="http://eknowles.com" %}
 
-I am a web developer living in London and working at [Leto][leto]. I spend most
-of my time creating [django][django] web applications in [python][python]. I
-think of my self as a most-of-stack developer, and I'm happy-ish building
-frontend, backend, databases, and server infrastructure. I fucking love regexp
+I am a web developer living in London and working at [ingresso][ingresso]. 
+I spend most of my time creating [django][django] web applications in
+[python][python]. I think of my self as a most-of-stack developer, and I'm
+happy-ish building frontend, backend, databases, and server infrastructure.
+I fucking love regexp
 
 From 2010 through 2014 I ran [Stunjelly][stunjelly] with [Edward Knowles][ned].
 Stunjelly was a eBook and digital publishing consultancy that specialised
@@ -44,7 +45,7 @@ Contact me: [nicwest.cb@gmail.com](nicwest.cb@gmail.com)
 [django]: https://www.djangoproject.com/
 [python]: https://www.python.org/ 
 [stunjelly]: http://stunjelly.com/
-[leto]: http://weareleto.com/
+[ingresso]: http://ingresso.co.uk/
 [ned]: http://eknowles.com
 [award]: http://www.randomhouse.co.uk/news/2013/01/the-dinosaur-that-pooped-christmas-wins-publishing-innovation-award
 [dinopoop]: https://itunes.apple.com/gb/book/dinosaur-that-pooped-christmas/id573535470
