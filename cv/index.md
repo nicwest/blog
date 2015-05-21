@@ -9,7 +9,9 @@ Full stack web developer and design graduate with 4 years experience. Versatile
 programmer and award winning eBook animator. [Read more...][about]
 
 ##History
-**2014 - Present:** Web developer @ Leto   
+**2015 - present:** Software Engineer @ Ingresso
+*ingresso provides a global and real time ticket distrution system*
+**2014 - 2015:** Web developer @ Leto   
 *Leto is a fast paced Django shop, building out prototype sites for startups*   
 **2010 - 2014:** Digital director @ Stunjelly   
 *Stunjelly was a digital publishing consultancy that specialised in complex ebook
