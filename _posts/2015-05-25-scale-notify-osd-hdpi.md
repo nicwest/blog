@@ -8,6 +8,8 @@ tags: ubuntu linux laptop
 
 ![blurry notifications](/imgs/notify.png)
 
+##HELLO PETE
+
 One of the rough edges of the linux/ubuntu HDPI experience is that that
 notify-osd scales weirdly and you get really bad anti-aliasing on fonts and
 images.
