@@ -85,6 +85,14 @@ module Jekyll
         @url
       end
 
+      def relative_path
+        @url
+      end
+
+      def path
+        @url
+      end
+
       def destination dest
         File.join(dest, url)
       end
