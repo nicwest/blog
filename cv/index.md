@@ -1,16 +1,16 @@
 ---
 layout: page
 title: "Nic West"
-date: "2015-03-12 00:21:00"
-version: 0.1
+date: "2016-01-17 15:43:00"
+version: 0.2
 ---
 
 Full stack web developer and design graduate with 4 years experience. Versatile
 programmer and award winning eBook animator. [Read more...][about]
 
 ##History
-**2015 - present:** Software Engineer @ Ingresso
-*ingresso provides a global and real time ticket distrution system*
+**2015 - present:** Software Engineer @ Ingresso    
+*Ingresso provides a global and real time ticket distrution system*    
 **2014 - 2015:** Web developer @ Leto   
 *Leto is a fast paced Django shop, building out prototype sites for startups*   
 **2010 - 2014:** Digital director @ Stunjelly   
@@ -31,19 +31,24 @@ climbing*
 
 ###Languages
 <div class="skillbar">
-    <div class="name">HTML5</div>
+    <div class="name">Python</div>
     <div class="bar bar-9"></div>
     <div class="number">9</div>
+</div>
+<div class="skillbar">
+    <div class="name">HTML5</div>
+    <div class="bar bar-8"></div>
+    <div class="number">8</div>
 </div>
 <div class="skillbar">
     <div class="name">CSS3</div>
-    <div class="bar bar-9"></div>
-    <div class="number">9</div>
-</div>
-<div class="skillbar">
-    <div class="name">Python</div>
     <div class="bar bar-8"></div>
     <div class="number">8</div>
+</div>
+<div class="skillbar">
+    <div class="name">Go</div>
+    <div class="bar bar-7"></div>
+    <div class="number">7</div>
 </div>
 <div class="skillbar">
     <div class="name">Vimscript</div>
@@ -56,7 +61,7 @@ climbing*
     <div class="number">6</div>
 </div>
 <div class="skillbar">
-    <div class="name">PHP</div>
+    <div class="name">PHP <strong>*</strong></div>
     <div class="bar bar-5"></div>
     <div class="number">5</div>
 </div>
@@ -66,10 +71,28 @@ climbing*
     <div class="number">4</div>
 </div>
 <div class="skillbar">
+    <div class="name">Objective C <strong>**</strong></div>
+    <div class="bar bar-4"></div>
+    <div class="number">4</div>
+</div>
+<div class="skillbar">
     <div class="name">Perl</div>
     <div class="bar bar-3"></div>
     <div class="number">3</div>
 </div>
+
+<p class="footnote">
+<small><em>* I have no interest in working in PHP, if this is
+core part of your stack then you might want to look elsewhere</em></small>
+</p>
+
+<p class="footnote">
+<small><em>** Notably no experience with common standard libraries.
+Read: No apple stuff, no GNU nextstep, no modern frameworks, no GUI stuff, etc.
+It's complicated, feel free to ask me about it!</em></small>
+</p>
+
+<br />
 
 ###Assorted technologies and concepts
 
@@ -77,7 +100,7 @@ django, epub, git, tdd, ansible, regexp, celery, vim, linux, vagrant, sass, ngin
 flask, rabbitmq, postgresql, sqlite, mysql, restful apis, openid, wordpress,
 supervisor, redis, memcached, functional programming, clojurescript, reagent,
 react, flux, autocad, blender, heroku, jekyll, mongodb, puppet, docker, chef,
-imagemagik, gimp, bdd, xmpp, irc, qt4, consul
+imagemagik, gimp, bdd, xmpp, irc, qt4, consul, rpc, angular
 
 *(In approximate order of experience/confidence)*   
 
@@ -125,7 +148,10 @@ dinosaur that Pooped Christmas][poop]*
         <i class="big-icon fa fa-twitter"></i>
         <span>@west_nic</span>
     </a>
+<br/>
+    <small>updated 2016-01-17 15:43:00</small>
 </div>
+
 
 [about]: /about/
 [ebook-award]: http://www.randomhouse.co.uk/news/2013/01/the-dinosaur-that-pooped-christmas-wins-publishing-innovation-award
