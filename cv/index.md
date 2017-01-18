@@ -5,8 +5,8 @@ date: "2016-01-17 15:43:00"
 version: 0.2
 ---
 
-Full stack web developer and design graduate with 4 years experience. Versatile
-programmer and award winning eBook animator. [Read more...][about]
+Full stack web developer and design graduate with 6-ish years experience.
+Versatile programmer and award winning eBook animator. [Read more...][about]
 
 ##History
 **2015 - present:** Software Engineer @ Ingresso    
@@ -67,8 +67,8 @@ climbing*
 </div>
 <div class="skillbar">
     <div class="name">Clojure</div>
-    <div class="bar bar-4"></div>
-    <div class="number">4</div>
+    <div class="bar bar-5"></div>
+    <div class="number">5</div>
 </div>
 <div class="skillbar">
     <div class="name">Objective C <strong>**</strong></div>
@@ -100,9 +100,9 @@ django, epub, git, tdd, ansible, regexp, celery, vim, linux, vagrant, sass, ngin
 flask, rabbitmq, postgresql, sqlite, mysql, restful apis, openid, wordpress,
 supervisor, redis, memcached, functional programming, clojurescript, reagent,
 react, flux, autocad, blender, heroku, jekyll, mongodb, puppet, docker, chef,
-imagemagik, gimp, bdd, xmpp, irc, qt4, consul, rpc, angular
+imagemagik, gimp, bdd, xmpp, irc, qt4, consul, rpc, angular, kafka, cassandra
 
-*(In approximate order of experience/confidence)*   
+*(In no particular order of experience/confidence)*   
 
 ##Expertise
 
