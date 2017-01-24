@@ -13,11 +13,4 @@ layout: default
   <article class="post-content">
     {{ content }}
   </article>
-  <div class="post-meta">
-    <strong class="title-font">tags:</strong> 
-    {% for tag in page.tags %}
-    {{tag | tag_link}}{% unless forloop.last or forloop.length == 1 %},{% endunless %}
-    {% endfor %}
-  </div>
-
 </div>

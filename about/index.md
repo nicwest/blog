@@ -18,7 +18,7 @@ in fixing broken books and producing exciting interactive texts. We won the
 [Best Ebook in the Children's category][award] at the Digital Book World 
 Conference with '[A Dinosaur that Pooped Christmas][dinopoop]'.
  
-I'm a heavy Vim user and enjoy writing Vim script. here's my [My vimrc][vimrc].
+I'm a heavy Vim user and enjoy writing Vim script. Here's my [My vimrc][vimrc].
 I wrote at least [one plugin that is actually terrible][QQ].
 
 I spend a disproportionate amount of time fantasising about how much better my
