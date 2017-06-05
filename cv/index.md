@@ -5,7 +5,7 @@ date: "2016-01-17 15:43:00"
 version: 0.3
 ---
 
-Full stack web developer and design graduate with 6-ish years experience.
+Full stack web developer and design graduate with 7-ish years experience.
 Versatile programmer and award winning eBook animator. [Read more...][about]
 
 History
@@ -43,17 +43,17 @@ Skills
     <div class="number">7</div>
 </div>
 <div class="skillbar">
+    <div class="name">Objective C <strong>*</strong></div>
+    <div class="bar bar-6"></div>
+    <div class="number">6</div>
+</div>
+<div class="skillbar">
     <div class="name">Clojure</div>
     <div class="bar bar-5"></div>
     <div class="number">5</div>
 </div>
 <div class="skillbar">
     <div class="name">Javascript</div>
-    <div class="bar bar-4"></div>
-    <div class="number">4</div>
-</div>
-<div class="skillbar">
-    <div class="name">Objective C <strong>*</strong></div>
     <div class="bar bar-4"></div>
     <div class="number">4</div>
 </div>

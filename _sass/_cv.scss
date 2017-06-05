@@ -8,7 +8,10 @@ div.skillbar{
   div.name {
     position: absolute;
     top: 4px;
-    color: #FFF;
+    color: #FFF !important;
+    -webkit-print-color-adjust: exact;
+    color-adjust: exact;
+    text-shadow: 0 0 0 #fff;
     left: 6px;
   }
 
@@ -20,7 +23,9 @@ div.skillbar{
   }
 
   div.bar {
-    background-color: $brand-color;
+    background-color: $brand-color !important;
+    -webkit-print-color-adjust: exact;
+    color-adjust: exact;
     height: 100%;
 
 
